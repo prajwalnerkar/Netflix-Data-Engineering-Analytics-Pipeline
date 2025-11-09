@@ -23,7 +23,7 @@ This project builds a complete modern data pipeline:
 | Data Storage | AWS S3 |
 | Data Warehouse | Snowflake |
 | Transformation | dbt (Data Build Tool) |
-| Programming | SQL, Python (optional) |
+| Programming | SQL | Python
 | Version Control | Git & GitHub |
 | Deployment | AWS Cloud |
 
